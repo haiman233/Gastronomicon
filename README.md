@@ -1,27 +1,33 @@
-# Gastronomicon (WIP)
+# Gastronomicon
 
 A Slimefun addon that adds even more foodstuffs to the game. Best used along with [ExoticGarden](https://github.com/TheBusyBiscuit/ExoticGarden).
-<!-- 
+
+This addon automatically integrates with DynaTech for crop automation. Both DynaTech and ExoticGarden integrations can be manually disabled in `config.yml`
+
 ## Gameplay
 
-### Food, food, and more food
+For more gameplay details, please see the Wiki at <https://github.com/SchnTgaiSpock/Gastronomicon/wiki>
 
-Recipes for most food items don't actually appear in the guide, but they can still be crafted if you know how. Experiment and go wild!
+## Requirements
 
-### Workstations
+- Paper (or its forks)
+- Slimefun DEV 1040 (RC 33) or higher
+- Minecraft 1.17+
+- Java 16+
 
-#### Culinary Workbench
+*Exotic Garden is not required but heavily recommended!*
 
-The Culinary Crafting Table has 9 slots for ingredients, and a slot for tools. It has both shaped and shapeless recipes.
+## API
 
-#### Brick Oven / Electric Oven
+API documentation can be found on the wiki at <https://github.com/SchnTgaiSpock/Gastronomicon/wiki/Custom-Food>
 
-The Brick Oven has a slot for fuel, while the electric version uses energy. Their recipes are both shapeless.
+## Changelog
 
-### Tempered Pot
+### Version 0.1.0
 
-The Tempered Pot must be placed on top of a fire, campfire, or their soul equivalents. It must be periodically refilled with water.
+- First Beta release
+- First API release
 
-### Distillery
+## Credits
 
-The Distillery should be kept in a dark environment (light level < 5) in order to produce high quality brews -->
+Some head textures were taken and/or modified from [minecraft-heads.com](https://minecraft-heads.com/) and [headdb.org](https://headdb.org/)
